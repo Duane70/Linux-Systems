@@ -1,0 +1,28 @@
+1.Which symbol will be used with grep command to match the pattern pat at the beginning of a line?
+a. ^pat
+b. $pat
+c. pat$
+d. pat^
+e. None of the above
+
+2.Which command is used to sort the lines of data in a file in reverse order
+a. sort
+b. sh
+c. st
+d. sort -r
+e. None of the above
+
+3.Which command is used to display the top of the file?
+a. cat
+b. head
+c. more
+d. grep
+e. None of the above
+
+4.Which command is used to remove a directory?
+a. rd
+b. rmdir
+c. dldir
+d. rdir
+e. None of the above
+
